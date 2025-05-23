@@ -2,11 +2,6 @@
 
 A sleek and modern movie browsing app built with **React** and **Vite**. Search for movies, view details, and explore trending titles.
 
-![screenshot](screenshot.png) <!-- Optional: Add a screenshot of your app -->
-
-## 🚀 Live Demo
-Check out the live app here: [https://your-app-name.vercel.app](https://your-app-name.vercel.app)
-
 ---
 
 ## 📌 Features
@@ -31,7 +26,7 @@ Check out the live app here: [https://your-app-name.vercel.app](https://your-app
 
 ### 1. Clone the repo
 
-git clone https://github.com/your-username/movie-app.git
+git clone https://github.com/Thilaga2022/movie_app_react.git
 cd movie-app
 
 
